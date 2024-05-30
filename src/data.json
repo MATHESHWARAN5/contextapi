@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Item 1", "price": 10, "quantity": 1, "image": "/images/apple-iphone-15-pro-1.jpg" },
+    { "id": 2, "name": "Item 2", "price": 15, "quantity": 1, "image": "/images/kumaran.webp" }
+  ]
+  
